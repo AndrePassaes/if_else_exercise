@@ -4,7 +4,11 @@ idade = input('Digite idade: ')
 
 if nome and idade != "":       
     print(f'Seu nome é {nome}')
-    print(f'Seu nome invertido é {nome[::-1]}')
+    print(f'Seu nome invertido é: {nome[::-1]}')
+    print(f'Sua idade é: {idade} ')
+    if idade > '10' :
+        print(f'A soma dos números da sua idade é: {int(idade[0]) + int(idade[1])}')
+        print(f'A divisão dos números da sua idade é: {int(idade[0]) / int(idade[1])}')
     if ' ' in nome:
         print(f'Seu nome contém espaços!')
     else:
