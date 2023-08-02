@@ -1,6 +1,8 @@
 # if_else_exercise
 
-Para quem é novo em Python, treinar 
+Para quem é novo em Python, treinar algorítmos utilizando a linguagem é uma ótima forma de aprender a sintaxe.
+
+Abaixo um exercício simples e no código, uma resolução dele.
 
 EXERCÍCIO 
 Peça ao usuário para digitar seu nome
