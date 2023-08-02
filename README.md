@@ -1,6 +1,8 @@
 # if_else_exercise
 
-EXERCÍCIO
+Para quem é novo em Python, treinar 
+
+EXERCÍCIO 
 Peça ao usuário para digitar seu nome
 Peça ao usuário para digitar sua idade
 Se o nome e idade forem digitados:
