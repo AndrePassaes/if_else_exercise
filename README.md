@@ -11,6 +11,10 @@ Seu nome contém (ou não) espaços
 Seu nome tem {n} letras
 A primeira letra do seu nome é {letra}
 A última letra do seu nome é {letra}
+Sua idade é {idade}
+Se a idade for maior que 10:
+A soma dos números da sua idade é:
+A divisão dos números da sua idade é:
 Se nada for digitado em nome ou idade:
-Exiba "Desculpe, você deixou campos vazios
+Exiba "Desculpe, você deixou campos vazios"
 
